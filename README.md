@@ -16,7 +16,7 @@ python -m venv .venv
 .venv\Scripts\activate          # Windows
 source .venv/bin/activate       # macOS / Linux
 pip install -r requirements.txt
-streamlit run signalscope_lab.py
+streamlit run analyser.py
 ```
 
 Use Python 3.9 to 3.12 (TensorFlow compatibility). The first instrument detection run downloads the YAMNet model, so an internet connection is needed once.
