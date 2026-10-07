@@ -1,0 +1,8 @@
+streamlit
+numpy
+scipy
+matplotlib
+imageio-ffmpeg
+tensorflow
+tensorflow-hub
+setuptools<81

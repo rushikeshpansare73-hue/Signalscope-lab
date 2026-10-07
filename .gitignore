@@ -1,33 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environment
 .venv/
 venv/
-env/
-
-# PyCharm
-.idea/
-
-# Streamlit
-.streamlit/
-
-# Audio files
-*.mp3
-*.wav
-*.m4a
-*.flac
-
-# Generated files
-output/
-outputs/
-*.csv
-
-# Python cache
-.pytest_cache/
-
-# OS files
+lab_env/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
 .DS_Store
-Thumbs.db
+.idea/
+.vscode/
